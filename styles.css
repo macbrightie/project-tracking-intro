@@ -54,6 +54,10 @@ border-radius: 0 0 0 25%;
 z-index: -1;
 right: 0;
 }
+button{
+    background-color: transparent;
+    border: none;
+}
 .main-image1{
     width: 100%;
     margin-right: 0;
@@ -150,17 +154,12 @@ h1 h2 h3{
         margin-top: 150px;
     
     }
-    .mr-auto{
-        margin-left: 70%; 
-       
-    }
+    
     .navbar-div{
-        background-color: transparent;
-       
+        background-color:white;
+        align-content: center; 
     }
-    hr{
-        border: none;
-    }
+  
     li{
         font-family:'Barlow Condensed', sans-serif;
         color: black; 
@@ -215,6 +214,13 @@ h1 h2 h3{
             height: 300px;
             margin-top: 150px;
         
+        }
+        .mr-auto{
+        
+       margin-left: 70%;
+        }
+        hr{
+            border: none;
         }
         .container{
             height:370px;
