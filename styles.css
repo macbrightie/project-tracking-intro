@@ -229,3 +229,8 @@ h1 h2 h3{
             position: relative;
            left: 700px;
            width: 400px;
+        }
+           .navbar-div{
+            background-color:transparent;
+             
+        }
